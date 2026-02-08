@@ -1,0 +1,131 @@
+patient_id,name,age,gender,city,admission_date,height_cm
+P001,,25,F,mumbai,15-01-2024,180
+P002,Rahul Sharma,60,F,Delhi,16-01-2024,170
+P003,Neha Singh,45,M,Mumbai,16-01-2024,150
+P004,Neha Singh,60,Male,kolkata,15-01-2024,170
+P005,Neha Singh,25,Male,kolkata,15-01-2024,180
+P006,Anita Verma,25,M,Mumbai,15-01-2024,150
+P007,Neha Singh,25,F,kolkata,15-01-2024,150
+P008,John Paul,60,F,Chennai,15-01-2024,160
+P009,,45,M,Mumbai,15-01-2024,150
+P010,Rahul Sharma,60,Female,Chennai,16-01-2024,150
+P011,Rahul Sharma,25,M,Delhi,15-01-2024,170
+P012,,-5,M,Delhi,15-01-2024,180
+P013,John Paul,25,Female,Delhi,15-01-2024,abc
+P014,Anita Verma,,Male,Chennai,15-01-2024,180
+P015,Rahul Sharma,25,F,kolkata,15-01-2024,180
+P016,Anita Verma,,Male,kolkata,15-01-2024,150
+P017,Anita Verma,45,F,Mumbai,15-01-2024,abc
+P018,Rahul Sharma,60,Male,Mumbai,15-01-2024,abc
+P019,Anita Verma,45,M,kolkata,16-01-2024,180
+P020,,60,Male,mumbai,15-01-2024,170
+P021,Neha Singh,,M,Chennai,16-01-2024,abc
+P022,Rahul Sharma,25,F,Chennai,15-01-2024,abc
+P023,Neha Singh,25,F,Chennai,15-01-2024,180
+P024,Rahul Sharma,25,F,mumbai,15-01-2024,160
+P025,John Paul,60,M,Mumbai,16-01-2024,abc
+P026,Neha Singh,25,Female,Mumbai,15-01-2024,180
+P027,Rahul Sharma,45,M,Chennai,15-01-2024,160
+P028,Anita Verma,45,Female,Mumbai,15-01-2024,180
+P029,Neha Singh,25,M,Chennai,16-01-2024,180
+P030,Neha Singh,-5,M,kolkata,15-01-2024,170
+P031,Neha Singh,60,M,kolkata,15-01-2024,150
+P032,Rahul Sharma,-5,M,Mumbai,15-01-2024,160
+P033,Anita Verma,,F,mumbai,15-01-2024,150
+P034,Anita Verma,25,Female,Mumbai,15-01-2024,160
+P035,Anita Verma,-5,Female,Delhi,16-01-2024,160
+P036,Rahul Sharma,60,M,Chennai,15-01-2024,abc
+P037,John Paul,,Female,Delhi,15-01-2024,170
+P038,,60,Male,Mumbai,16-01-2024,170
+P039,Neha Singh,-5,Male,kolkata,15-01-2024,180
+P040,Neha Singh,,F,Chennai,16-01-2024,150
+P041,John Paul,30,F,Mumbai,16-01-2024,180
+P042,,,F,mumbai,15-01-2024,170
+P043,John Paul,60,Male,Mumbai,16-01-2024,180
+P044,Rahul Sharma,25,F,mumbai,16-01-2024,170
+P045,Rahul Sharma,25,F,kolkata,15-01-2024,170
+P046,,25,M,mumbai,16-01-2024,160
+P047,Rahul Sharma,,F,Delhi,15-01-2024,180
+P048,,,Male,Delhi,15-01-2024,160
+P049,Anita Verma,30,F,Delhi,15-01-2024,180
+P050,,25,F,Delhi,16-01-2024,170
+P051,Anita Verma,-5,M,Delhi,15-01-2024,170
+P052,John Paul,30,M,mumbai,15-01-2024,abc
+P053,John Paul,,F,Delhi,15-01-2024,160
+P054,Rahul Sharma,,F,Chennai,15-01-2024,150
+P055,Anita Verma,60,Male,mumbai,15-01-2024,180
+P056,Anita Verma,30,Female,kolkata,15-01-2024,150
+P057,Anita Verma,25,Female,mumbai,16-01-2024,abc
+P058,Anita Verma,25,F,Mumbai,15-01-2024,170
+P059,Neha Singh,-5,Female,kolkata,15-01-2024,160
+P060,Neha Singh,60,Female,Delhi,15-01-2024,150
+P061,John Paul,60,Female,Delhi,15-01-2024,160
+P062,Neha Singh,30,Male,Mumbai,15-01-2024,170
+P063,Rahul Sharma,,Male,Delhi,16-01-2024,160
+P064,Neha Singh,,F,kolkata,15-01-2024,160
+P065,,25,Male,kolkata,15-01-2024,180
+P066,Anita Verma,25,Female,kolkata,16-01-2024,150
+P067,John Paul,30,Male,mumbai,15-01-2024,abc
+P068,,45,M,mumbai,16-01-2024,160
+P069,Neha Singh,25,Female,kolkata,15-01-2024,160
+P070,,60,Female,mumbai,16-01-2024,abc
+P071,,,F,mumbai,15-01-2024,150
+P072,,30,F,Chennai,16-01-2024,170
+P073,Neha Singh,30,F,mumbai,16-01-2024,180
+P074,,-5,Male,Chennai,16-01-2024,abc
+P075,,25,F,Chennai,16-01-2024,160
+P076,,,F,mumbai,15-01-2024,170
+P077,Rahul Sharma,25,F,mumbai,16-01-2024,180
+P078,,60,Male,mumbai,16-01-2024,abc
+P079,Neha Singh,45,M,Delhi,16-01-2024,160
+P080,John Paul,60,Female,Chennai,16-01-2024,150
+P081,Rahul Sharma,45,F,Delhi,15-01-2024,abc
+P082,Anita Verma,-5,M,kolkata,15-01-2024,160
+P083,Anita Verma,60,Female,mumbai,15-01-2024,170
+P084,Neha Singh,,F,kolkata,16-01-2024,abc
+P085,Rahul Sharma,,F,Delhi,15-01-2024,180
+P086,Rahul Sharma,60,Male,Chennai,15-01-2024,150
+P087,Anita Verma,25,M,Mumbai,16-01-2024,abc
+P088,John Paul,60,Male,mumbai,15-01-2024,abc
+P089,,25,Female,kolkata,16-01-2024,150
+P090,John Paul,-5,M,kolkata,16-01-2024,170
+P091,Rahul Sharma,45,Male,kolkata,15-01-2024,180
+P092,Neha Singh,60,M,Delhi,15-01-2024,160
+P093,John Paul,,Male,Delhi,16-01-2024,170
+P094,John Paul,,M,Mumbai,15-01-2024,160
+P095,Rahul Sharma,-5,M,Delhi,16-01-2024,180
+P096,Anita Verma,25,Female,Chennai,15-01-2024,170
+P097,Rahul Sharma,45,Female,Chennai,16-01-2024,abc
+P098,John Paul,60,Female,kolkata,15-01-2024,170
+P099,John Paul,60,M,mumbai,15-01-2024,160
+P100,Neha Singh,30,M,kolkata,15-01-2024,abc
+P101,John Paul,,Female,Chennai,16-01-2024,150
+P102,Neha Singh,60,F,Chennai,16-01-2024,170
+P103,John Paul,-5,Female,Chennai,15-01-2024,170
+P104,Anita Verma,,Male,kolkata,16-01-2024,abc
+P105,John Paul,,Female,Mumbai,15-01-2024,170
+P106,Neha Singh,60,M,mumbai,16-01-2024,abc
+P107,Neha Singh,60,Female,Mumbai,15-01-2024,150
+P108,Neha Singh,30,M,Mumbai,15-01-2024,170
+P109,John Paul,30,Female,mumbai,16-01-2024,160
+P110,Neha Singh,30,Female,Chennai,15-01-2024,170
+P111,,60,F,Chennai,16-01-2024,abc
+P112,Anita Verma,45,Male,kolkata,15-01-2024,abc
+P113,John Paul,45,F,kolkata,16-01-2024,160
+P114,Neha Singh,-5,M,Mumbai,15-01-2024,160
+P115,Anita Verma,60,M,mumbai,15-01-2024,abc
+P116,John Paul,30,Female,mumbai,15-01-2024,abc
+P117,Anita Verma,45,M,Delhi,15-01-2024,170
+P118,,60,Female,Delhi,15-01-2024,abc
+P119,John Paul,,M,Mumbai,16-01-2024,160
+P120,Neha Singh,,M,kolkata,15-01-2024,170
+P001,,25,F,mumbai,15-01-2024,180
+P002,Rahul Sharma,60,F,Delhi,16-01-2024,170
+P003,Neha Singh,45,M,Mumbai,16-01-2024,150
+P004,Neha Singh,60,Male,kolkata,15-01-2024,170
+P005,Neha Singh,25,Male,kolkata,15-01-2024,180
+P006,Anita Verma,25,M,Mumbai,15-01-2024,150
+P007,Neha Singh,25,F,kolkata,15-01-2024,150
+P008,John Paul,60,F,Chennai,15-01-2024,160
+P009,,45,M,Mumbai,15-01-2024,150
+P010,Rahul Sharma,60,Female,Chennai,16-01-2024,150
